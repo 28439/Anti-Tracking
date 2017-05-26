@@ -1,4 +1,5 @@
-#A major block list to block companies including: Apple, Facebook, Google, Microsoft, and Amazon. I did not find these domains myself. I will list the sources I have found them from.
+#A major block list to block companies including: Apple, Facebook, Google, Microsoft, and Amazon. 
+#I did not find these domains myself. I will list the sources I have found them from.
 
 
 #Facebook (http://geekussion.com/windows/block-facebook-hosts-file-windows-pc-99/)
@@ -3020,6 +3021,3 @@ fe80::1%lo0 apps.facebook.com
 0.0.0.0 www.login.facebook.com
 0.0.0.0 zh-cn.facebook.com
 0.0.0.0 zh-tw.facebook.com
-
-
-
