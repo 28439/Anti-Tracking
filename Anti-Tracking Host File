@@ -3541,7 +3541,7 @@ fe80::1%lo0 apps.facebook.com
 
 
 
-# nVidia Telemetry
+# nVidia Telemetry (https://forum.palemoon.org/viewtopic.php?t=15686&start=20)
 0.0.0.0 gfe.geforce.com
 0.0.0.0 telemetry.nvidia.com
 0.0.0.0 gfwsl.geforce.com
