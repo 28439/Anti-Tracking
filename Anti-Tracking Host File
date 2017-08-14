@@ -1,6 +1,47 @@
 #A major block list to block companies including: Apple, Facebook, Google, Microsoft, and Amazon. 
 #I did not find these domains myself. I will list the sources I have found them from.
 
+#I do not remember the sources for the google links. #Mobile Tracking
+0.0.0.0 settings.crashlytics.com
+0.0.0.0 try.crashlytics.com
+0.0.0.0 crashlytics.com
+0.0.0.0 e.crashlytics.com
+0.0.0.0 reports.crashlytics.com
+0.0.0.0 analytics.twitter.com
+0.0.0.0 data.flurry.com
+0.0.0.0 ads.flurry.com
+0.0.0.0 a.applovin.com
+0.0.0.0 d.applovin.com
+0.0.0.0 assets.applovin.com
+0.0.0.0 res1.applovin.com
+0.0.0.0 rt.applovin.com
+0.0.0.0 ads.mopub.com
+0.0.0.0 analytics.strava.com
+0.0.0.0 applovin.com
+0.0.0.0 analytics.snapchat.com
+0.0.0.0 sc-analytics.appspot.com
+0.0.0.0 app-analytics.snapchat.com
+0.0.0.0 snapads.com
+0.0.0.0 usc.adserver.snapads.com
+0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 telemetry.mozilla.org
+0.0.0.0 pagead.googlesyndication.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 adservices.google.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 google-analytics.com
+0.0.0.0 imageads.googleadservices.com
+0.0.0.0 imageads1.googleadservices.com
+0.0.0.0 imageads2.googleadservices.com
+0.0.0.0 imageads3.googleadservices.com
+0.0.0.0 imageads4.googleadservices.com
+0.0.0.0 imageads5.googleadservices.com
+0.0.0.0 imageads6.googleadservices.com
+0.0.0.0 imageads7.googleadservices.com
+0.0.0.0 imageads8.googleadservices.com
+0.0.0.0 imageads9.googleadservices.com
+0.0.0.0 partner.googleadservices.com
+0.0.0.0 www.googleadservices.com
 
 #Facebook (http://geekussion.com/windows/block-facebook-hosts-file-windows-pc-99/)
 
