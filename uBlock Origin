@@ -1,0 +1,193 @@
+no-large-media: behind-the-scene false
+* 1trust.app * block
+* 2mdn.net * block
+* 2o7.net * block
+* aaxads.com * block
+* acidpigs.com * block
+* actblue.com * block
+* addthis.com * block
+* admantx.com * block
+* adnxs.com * block
+* ads-twitter.com * block
+* adsafeprotected.com * block
+* adsrvr.org * block
+* amazon-adsystem.com * block
+* amplitude.com * block
+* associates-amazon.com * block
+* atdmt.com * block
+* badskies.com * block
+* betrad.com * block
+* bing.com * block
+* bkrtx.com * block
+* bluekai.com * block
+* boomtrain.com * block
+* bounceexchange.com * block
+* branch.io * block
+* brightcove.net * block
+* bugsnag.com * block
+* casalemedia.com * block
+* cdninstagram.com * block
+* chartbeat.com * block
+* conductrics.com * block
+* confiant-integrations.global.ssl.fastly.net * block
+* cookielaw.org * block
+* criteo.com * block
+* criteo.net * block
+* crwdcntrl.net * block
+* cs.atdmt.com * block
+* datadoghq.com * block
+* demdex.net * block
+* dianomi.com * block
+* donaldjtrump.com * block
+* doubleclick.net * block
+* doubleverify.com * block
+* facebook.com * block
+* facebook.net * block
+* fbcdn.net * block
+* fwmrm.net * block
+* go-mpulse.net * block
+* google-analytics.com * block
+* google.com * block
+* googleadservices.com * block
+* googlesyndication.com * block
+* googletagmanager.com * block
+* googletagservices.com * block
+* gu-web.net * block
+* honeybadger.io * block
+* hotjar.com * block
+* hs-scripts.com * block
+* igodigital.com * block
+* imasdk.googleapis.com * block
+* imrworldwide.com * block
+* indexww.com * block
+* instagram.com * block
+* intercom.io * block
+* intergi.com * block
+* jsdelivr.net * block
+* krxd.net * block
+* liadm.com * block
+* licdn.com * block
+* marketo.com * block
+* marketo.net * block
+* mediavoice.com * block
+* moatads.com * block
+* mopinion.com * block
+* mparticle.com * block
+* mxpnl.com * block
+* nervoussummer.com * block
+* newrelic.com * block
+* nile.works * block
+* npttech.com * block
+* ntv.io * block
+* oath.com * block
+* omegacdn.net * block
+* omny.fm * block
+* omnycontent.com * block
+* omtrdc.net * block
+* onesignal.com * block
+* onetrust.com * block
+* optimizely.com * block
+* outbrain.com * block
+* parsely.com * block
+* polyfill.io * block
+* pub.network * block
+* px-cloud.net * block
+* quantserve.com * block
+* raygun.io * block
+* remarketingpixel.com * block
+* rkdms.com * block
+* rlcdn.com * block
+* rubiconproject.com * block
+* s-onetag.com * block
+* sail-horizon.com * block
+* sail-track.com * block
+* scorecardresearch.com * block
+* scroll.com * block
+* segment.com * block
+* segment.io * block
+* sharethis.com * block
+* sp-prod.net * block
+* squirrelhands.com * block
+* statcounter.com * block
+* steadfastsystem.com * block
+* stickyadstv.com * block
+* summerhamster.com * block
+* taboola.com * block
+* taplytics.com * block
+* tinypass.com * block
+* tiqcdn.com * block
+* tree.com * block
+* tru.am * block
+* trustarc.com * block
+* trustx.org * block
+* turner.com * block
+* tvpixel.com * block
+* udmserve.net * block
+* ugdturner.com * block
+* upscri.be * block
+* usabilla.com * block
+* verizonmedia.com * block
+* vilynx.com * block
+* winred.com * block
+* wp.com * block
+* wsod.com * block
+* www.facebook.com * block
+* www.verizonmedia.com * block
+* xg4ken.com * block
+* yahoo.com * block
+* yahoodns.net * block
+facebook.com
+fbcdn.net
+instagram.com
+fbcdn.com
+whatsapp.net
+whatsapp.com
+0.0.0.0 www.facebook.de
+0.0.0.0 www.facebook.fr
+energized.pro
+tfbnw.net
+hootsuite.com
+facebook.com.edgesuite.net
+addtoany.com
+cdninstagram.com
+online-metrix.net
+facebook.com.edgekey.net
+foursquare.com
+internet.org
+messenger.com
+m.me
+fb.com
+instagramstatic-a.akamaihd.net.edgesuite.net
+instagramstatic-a.akamaihd.net
+freebasics.com
+fburl.com
+fbsbx.com
+fbstatic-a.akamaihd.net
+fbexternal-a.akamaihd.net
+wechat.com
+fb.me
+facebook-web-clients.appspot.com
+facebook.net.edgekey.net
+tfbnw.net
+28439.github.io google-analytics.com * noop
+28439.github.io googletagmanager.com * noop
+28439.github.io www.googletagmanager.com * noop
+accounts.google.com google.com * noop
+analytics.google.com google.com * noop
+aternos.org amazon-adsystem.com * noop
+aternos.org google-analytics.com * noop
+aternos.org googletagservices.com * noop
+behind-the-scene * * noop
+behind-the-scene * 1p-script noop
+behind-the-scene * 3p noop
+behind-the-scene * 3p-frame noop
+behind-the-scene * 3p-script noop
+behind-the-scene * image noop
+behind-the-scene * inline-script noop
+drive.google.com drive.google.com * noop
+drive.google.com google.com * noop
+mail.google.com google.com * noop
+sentry.io sentry.io * block
+www.ebay.com google.com * block
+www.google.com google.com * noop
+www.youtube.com google.com * noop
